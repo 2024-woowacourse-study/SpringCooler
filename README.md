@@ -9,17 +9,17 @@
 - 수 14:00 ~ 15:00
 - 금 14:00 ~ 15:00
 
-|Section|Date|
-|--|--|
-|Section1|2024.03.13 WEN|
-|Section2|2024.03.15 FRI|
-|Section3|2024.03.18 MON|
-|Section5|2024.03.22 FRI|
-|Section4|2024.03.23 SAT|
-|Section6|2024.03.25 MON|
-|Section7|2024.03.27 WEN|
-|Section8|2024.03.29 FRI|
-|Section9|2024.04.01 MON|
+| Section  |Date|
+|----------|--|
+| Section1 |2024.03.13 WEN|
+| Section2 |2024.03.15 FRI|
+| Section3 |2024.03.18 MON|
+| Section4 |2024.03.22 FRI|
+| Section5 |2024.03.23 SAT|
+| Section6 |2024.03.25 MON|
+| Section7 |2024.03.27 WEN|
+| Section8 |2024.03.29 FRI|
+| Section9 |2024.04.01 MON|
 
 총무 : 상돌
 
