@@ -22,10 +22,6 @@
 - 스프링 프레임워크, 스프링 부트, 스프링 데이터, 등등
 - 이 모든걸 편리하게 사용하도록 도와주는 것이 스프링 부트
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5147d34-8c15-4c8c-b3cf-253777b75cc7/eaab35b5-d3b2-4eee-a31e-174acf966a7b/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5147d34-8c15-4c8c-b3cf-253777b75cc7/0c92d9f6-c9ae-4874-b1e1-4a59eaec7c60/Untitled.png)
-
 과거에는 스프링 프레임워크와 맞는 DB 혹은 여러 라이브러리 들의 버전관리가 진짜 힘들었음
 
 but. 지금은 스프링 부트가 이 모든 것을 해줌
@@ -48,7 +44,7 @@ but. 지금은 스프링 부트가 이 모든 것을 해줌
 
 → 다형성
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a5147d34-8c15-4c8c-b3cf-253777b75cc7/3895a050-f192-4b39-9b7c-7245628ab999/Untitled.png)
+<img width="826" alt="car" src="https://github.com/2024-woowacourse-study/spring-basic/assets/114469256/306ef703-f252-4774-8253-36165d1f86c1">
 
 이런식으로 자동차의 역할을 하는 객체가 있다면 어떤 차종으로 바뀌든 갈아낄 수 있다.
 
