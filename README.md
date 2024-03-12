@@ -9,17 +9,17 @@
 - 수 14:00 ~ 15:00
 - 금 14:00 ~ 15:00
 
-|Section|Date|
-|--|--|
-|Section1|2024.03.13 WEN|
-|Section2|2024.03.15 FRI|
-|Section3|2024.03.18 MON|
-|Section5|2024.03.22 FRI|
-|Section4|2024.03.23 SAT|
-|Section6|2024.03.25 MON|
-|Section7|2024.03.27 WEN|
-|Section8|2024.03.29 FRI|
-|Section9|2024.04.01 MON|
+| Section  |Date|
+|----------|--|
+| Section1 |2024.03.13 WEN|
+| Section2 |2024.03.15 FRI|
+| Section3 |2024.03.18 MON|
+| Section4 |2024.03.22 FRI|
+| Section5 |2024.03.23 SAT|
+| Section6 |2024.03.25 MON|
+| Section7 |2024.03.27 WEN|
+| Section8 |2024.03.29 FRI|
+| Section9 |2024.04.01 MON|
 
 총무 : 상돌
 
@@ -29,6 +29,6 @@
 3. 각자 요약본 PR은 스터디 시작 전까지만 받는다. (늦으면 벌금)
 
 ## 👨‍👨‍👦‍👦 멤버
-|<img src="https://avatars.githubusercontent.com/u/110461155?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/93831492?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/64410384?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/119468757?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/39932141?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/101033262?v=4" width=150>|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|[@땡이](https://github.com/J-I-H-O)|[@마크](https://github.com/seunghye218)|[@망쵸](https://github.com/3Juhwan)|[@뽀로로](https://github.com/jcoding-play)|[@아톰](https://github.com/le2sky)|[@프린](https://github.com/GIVEN53)|
+| <img src="https://avatars.githubusercontent.com/jhon3242" width=150> | <img src="https://avatars.githubusercontent.com/pricelees" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/masonkimseoul" width=150> |
+|:--:|:--:|:--:|:--:|
+|[@타칸](https://github.com/jhon3242)|[@상돌](https://github.com/pricelees)|[@호기](https://github.com/hoyeonyy)|[@메이슨](https://github.com/masonkimseoul)|
