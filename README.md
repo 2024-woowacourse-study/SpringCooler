@@ -1,8 +1,8 @@
-# 스프링 기본 스터디
+# 스프링쿨러
+![image](https://github.com/2024-woowacourse-study/Springkler/assets/78288539/79c831e0-f1ef-49fa-9c5d-0fc1ee4a97b6)
 
-![image](https://github.com/2024-woowacourse-study/spring-basic/assets/78288539/c93c143d-4094-40a0-8c8a-331fd19e732a)
 
-주 3회씩 모여서 각자 정리한 섹션을 나누고 궁금했던 점을 나누는 스터디
+주 3회씩 모여서 각자 정리한 스프링 강의 섹션을 나누고 궁금했던 점을 나누는 스터디
 
 ## ⏳ 일정
 - 월 14:00 ~ 15:00
